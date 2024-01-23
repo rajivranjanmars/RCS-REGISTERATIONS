@@ -37,7 +37,7 @@ const Table = async () => {
               </thead>
               <tbody>
                     {
-                        data.map((item) => {
+                        data.map((item:any) => {
                             return (
                                 // eslint-disable-next-line react/jsx-key
                                 <tr className="odd:bg-white odd:dark:bg-gray-900 even:bg-gray-50 even:dark:bg-gray-800 border-b dark:border-gray-700">
