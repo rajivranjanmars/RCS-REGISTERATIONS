@@ -2,7 +2,7 @@
 
 
 const Table = async () => {
-    const url=process.env.NEXT_PUBLIC_DATA_URL;
+    const url:any=process.env.NEXT_PUBLIC_DATA_URL;
     const response = await fetch(url);
     const data = await response.json();
     data.reverse();
