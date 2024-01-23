@@ -4,7 +4,7 @@ import Table from './Table'
 export default async function Home() {
  
   return (
-    <main className="flex min-h-screen flex-col items-center justify-between p-24">
+    <main className="overflow-x-auto p-24">
     
      <Table/>
     </main>
