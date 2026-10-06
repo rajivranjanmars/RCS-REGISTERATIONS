@@ -8,4 +8,4 @@ Set `NEXT_PUBLIC_DATA_URL` to an accessible endpoint returning registration reco
 
 ## Author
 
-Author: [rajivranjanmars](https://rajivranjana.in).
+Author: [Rajiv Ranjan](https://rajivranjan.in).
